@@ -1,0 +1,14 @@
+{
+  "name": "flex-theme",
+  "version": "1.0.0",
+  "description": "This is a flex-box theme",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "author": "Muhammad Mubeen",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
